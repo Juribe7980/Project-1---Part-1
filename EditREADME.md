@@ -3,6 +3,9 @@
 
 **Author**: Jessica Uribe
 
+![image](https://user-images.githubusercontent.com/120814725/224581500-29e2f7d6-4dc8-47dc-a51f-ba2b961b4389.png)
+
+
 ### Objective:
 
  The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales.
